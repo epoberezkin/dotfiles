@@ -38,7 +38,7 @@
     (("gnu" . "http://elpa.gnu.org/packages/")
      ("melpa" . "http://melpa.org/packages/")
      ("melpa-stable" . "http://melpa-stable.milkbox.net/packages/"))))
- '(package-selected-packages (quote (flycheck vs-dark-theme haskell-mode))))
+ '(package-selected-packages (quote (flycheck vs-dark-theme dante))))
 
 (custom-set-faces
  ;; custom-set-faces was added by Custom.

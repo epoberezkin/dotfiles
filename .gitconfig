@@ -1,0 +1,9 @@
+[user]
+	email = 2769109+epoberezkin@users.noreply.github.com
+	name = Evgeny Poberezkin
+[github]
+	user = epoberezkin
+[url "git@github.com:"]
+	insteadOf = gh:
+[core]
+	excludesfile = ~/.gitignore

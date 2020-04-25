@@ -1,0 +1,10 @@
+# haskell stack
+.stack-work
+
+# Mac OS
+.DS_Store
+
+# emacs
+*~
+\#*\#
+.\#*
