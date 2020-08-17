@@ -1,6 +1,9 @@
 # haskell stack
 .stack-work
 
+# VSCode config
+.vscode
+
 # Mac OS
 .DS_Store
 
